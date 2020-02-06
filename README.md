@@ -1,1 +1,1 @@
-# F77_physicsCourse_MS
+Computational physics course - fortran codes
